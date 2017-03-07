@@ -1,0 +1,5 @@
+D:\Github\20170307CRUDWebForm\WebApplication1\AlonsoLibary\bin\Debug\AlonsoLibary.dll
+D:\Github\20170307CRUDWebForm\WebApplication1\AlonsoLibary\bin\Debug\AlonsoLibary.pdb
+D:\Github\20170307CRUDWebForm\WebApplication1\AlonsoLibary\obj\Debug\AlonsoLibary.csprojResolveAssemblyReference.cache
+D:\Github\20170307CRUDWebForm\WebApplication1\AlonsoLibary\obj\Debug\AlonsoLibary.dll
+D:\Github\20170307CRUDWebForm\WebApplication1\AlonsoLibary\obj\Debug\AlonsoLibary.pdb

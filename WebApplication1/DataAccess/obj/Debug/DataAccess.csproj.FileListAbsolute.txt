@@ -1,0 +1,5 @@
+D:\Github\20170307CRUDWebForm\WebApplication1\DataAccess\bin\Debug\DataAccess.dll
+D:\Github\20170307CRUDWebForm\WebApplication1\DataAccess\bin\Debug\DataAccess.pdb
+D:\Github\20170307CRUDWebForm\WebApplication1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Github\20170307CRUDWebForm\WebApplication1\DataAccess\obj\Debug\DataAccess.dll
+D:\Github\20170307CRUDWebForm\WebApplication1\DataAccess\obj\Debug\DataAccess.pdb
